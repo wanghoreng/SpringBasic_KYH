@@ -1,5 +1,5 @@
 ## 스프링 핵심 원리 - 기본편 
-<a href="https://github.com/wanghoreng/SpringBasic_KYH/files/14473265/0.-.v2023-12-04.pdf">0.스프링 핵심 원리 - 기본편</a><br>
+
 <a href="https://github.com/wanghoreng/SpringBasic_KYH/files/14473266/1.pdf">1. 객체 지향 설계와 스프링</a><br>
 <a href="https://github.com/wanghoreng/SpringBasic_KYH/files/14473267/2.1.-.pdf">2. 스프링 핵심 원리 이해1 - 예제 만들기</a><br>
 <a href="https://github.com/wanghoreng/SpringBasic_KYH/files/14473268/3.2.-.pdf">3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용</a><br>
